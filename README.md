@@ -1,1 +1,3 @@
-Codigo Backend que realiza un CRUD para la una base de datos Mysql
+Proyecto ConectarLAB que estamos trabajando en la tecnicatura
+
+Codigo Backend que realiza un CRUD para una base de datos Mysql
